@@ -1,2 +1,3 @@
 # Medicine-Recommendation-System
 Developed a machine learning–based Medicine Recommendation System that predicts diseases from user symptoms and provides personalized recommendations, including medicines, precautions, diet, and follow-up suggestions using Flask for deployment.
+This project aims to develop an intelligent Medicine Recommendation System that leverages machine learning to analyze user-reported symptoms and provide personalized disease predictions, along with suggested medications, precautions, dietary tips, workouts, and follow-up actions. The system will be implemented using Python (Flask) for backend logic and HTML/CSS/Jinja2 for the frontend, enabling users to interact with the model without requiring database storage or login credentials.
